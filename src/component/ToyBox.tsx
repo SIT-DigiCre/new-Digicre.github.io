@@ -5,7 +5,12 @@ import ContentBlock from './ContentBlock';
 const ToyBox: React.FC<Props> = (props) => {
   return (
     <div>
-      {/* おもちゃ箱の実装 */}
+      <ContentBlock
+        title={"おもちゃ箱"}
+      >
+        <h3>ランダムで面白いものが出てくるよ！</h3>
+        {/* htmlタグのテストです */}
+      </ContentBlock>
     </div>
   );
 }
