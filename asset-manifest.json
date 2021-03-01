@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/new-Digicre.github.io/static/css/main.d40a828a.chunk.css",
-    "main.js": "/new-Digicre.github.io/static/js/main.bf00ca42.chunk.js",
-    "main.js.map": "/new-Digicre.github.io/static/js/main.bf00ca42.chunk.js.map",
-    "runtime-main.js": "/new-Digicre.github.io/static/js/runtime-main.de49f575.js",
-    "runtime-main.js.map": "/new-Digicre.github.io/static/js/runtime-main.de49f575.js.map",
-    "static/js/2.7f5b74be.chunk.js": "/new-Digicre.github.io/static/js/2.7f5b74be.chunk.js",
-    "static/js/2.7f5b74be.chunk.js.map": "/new-Digicre.github.io/static/js/2.7f5b74be.chunk.js.map",
-    "static/js/3.a25a3b76.chunk.js": "/new-Digicre.github.io/static/js/3.a25a3b76.chunk.js",
-    "static/js/3.a25a3b76.chunk.js.map": "/new-Digicre.github.io/static/js/3.a25a3b76.chunk.js.map",
+    "main.js": "/new-Digicre.github.io/static/js/main.c42488ad.chunk.js",
+    "main.js.map": "/new-Digicre.github.io/static/js/main.c42488ad.chunk.js.map",
+    "runtime-main.js": "/new-Digicre.github.io/static/js/runtime-main.2827fd09.js",
+    "runtime-main.js.map": "/new-Digicre.github.io/static/js/runtime-main.2827fd09.js.map",
+    "static/js/2.e4e1ad70.chunk.js": "/new-Digicre.github.io/static/js/2.e4e1ad70.chunk.js",
+    "static/js/2.e4e1ad70.chunk.js.map": "/new-Digicre.github.io/static/js/2.e4e1ad70.chunk.js.map",
+    "static/js/3.99d10533.chunk.js": "/new-Digicre.github.io/static/js/3.99d10533.chunk.js",
+    "static/js/3.99d10533.chunk.js.map": "/new-Digicre.github.io/static/js/3.99d10533.chunk.js.map",
     "index.html": "/new-Digicre.github.io/index.html",
     "static/css/main.d40a828a.chunk.css.map": "/new-Digicre.github.io/static/css/main.d40a828a.chunk.css.map",
-    "static/js/2.7f5b74be.chunk.js.LICENSE.txt": "/new-Digicre.github.io/static/js/2.7f5b74be.chunk.js.LICENSE.txt"
+    "static/js/2.e4e1ad70.chunk.js.LICENSE.txt": "/new-Digicre.github.io/static/js/2.e4e1ad70.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.de49f575.js",
-    "static/js/2.7f5b74be.chunk.js",
+    "static/js/runtime-main.2827fd09.js",
+    "static/js/2.e4e1ad70.chunk.js",
     "static/css/main.d40a828a.chunk.css",
-    "static/js/main.bf00ca42.chunk.js"
+    "static/js/main.c42488ad.chunk.js"
   ]
 }
