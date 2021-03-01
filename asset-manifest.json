@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/new-Digicre.github.io/static/css/main.d40a828a.chunk.css",
-    "main.js": "/new-Digicre.github.io/static/js/main.2f0af2c0.chunk.js",
-    "main.js.map": "/new-Digicre.github.io/static/js/main.2f0af2c0.chunk.js.map",
+    "main.js": "/new-Digicre.github.io/static/js/main.bf00ca42.chunk.js",
+    "main.js.map": "/new-Digicre.github.io/static/js/main.bf00ca42.chunk.js.map",
     "runtime-main.js": "/new-Digicre.github.io/static/js/runtime-main.de49f575.js",
     "runtime-main.js.map": "/new-Digicre.github.io/static/js/runtime-main.de49f575.js.map",
     "static/js/2.7f5b74be.chunk.js": "/new-Digicre.github.io/static/js/2.7f5b74be.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.de49f575.js",
     "static/js/2.7f5b74be.chunk.js",
     "static/css/main.d40a828a.chunk.css",
-    "static/js/main.2f0af2c0.chunk.js"
+    "static/js/main.bf00ca42.chunk.js"
   ]
 }
